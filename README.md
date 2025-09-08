@@ -1,4 +1,6 @@
+### <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d80db9971f10a9757c99_Symbol.svg" alt="discord" width="23" align="absmiddle"/> &nbsp;Current Status
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=334018024283570187)
+
 
 
 ### 💻 Technical Skills
@@ -24,8 +26,8 @@
 ### ⚙️ Statistics
 <p align="center">
 <a href="https://github.com/npyrz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=peter-greek&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=peter-greek&layout=compact&langs_count=8&theme=monokai"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=peter-greek&show_icons=true&theme=monokai&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=peter-greek&layout=compact&langs_count=8&theme=monokai&hide_border=true"/>
  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=peter-greek&theme=monokai&hide_border=true"/>
 </a>
 </p>
