@@ -25,7 +25,7 @@
  
 ### ⚙️ Statistics
 <p align="center">
-<a href="https://github.com/npyrz">
+<a href="https://github.com/peter-greek">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=peter-greek&show_icons=true&theme=monokai&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=peter-greek&layout=compact&langs_count=8&theme=monokai&hide_border=true"/>
  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=peter-greek&theme=monokai&hide_border=true"/>
